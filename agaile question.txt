@@ -1,0 +1,31 @@
+
+
+UNIT  - 4
+
+1) what is the main objective of TDD ?
+2) how is the peer progrmaing contribute to good quality in agile development ?
+3) define velocity in agile and explain how it is used from project planning ? 
+4) what does a burndown chart represents in agile project tracking ?
+
+LAQ
+
+1) explain the steps involve in TDD and compare it with BDD with suitable example ?
+2) discuss the benefits and challenges of peer programing. how can peer avaluation enhance its effectiveness in a real time environment ?
+3) describe how continuous integration supports agile factors include a discussion on commonly used CI tool and role in improving development efficiency ?
+4) agile matrix such as velocity burndown and cycle time are essential for tracking progress. explain how each of this matrix discalculated and how they can be used in project management tools to support project planning and retrospective ?
+
+UNIT - 5
+
+SAQ
+
+1) what is the purpose of scaling agile framework like safeness ?
+2) mention two challenges face by distributed agile team ?
+3) what is scrum@scale and how does it differ from standard scrum ?
+4) name any two tools used in manage scaled agile team and explain their use ?
+
+LAQ
+
+1) compare and contrast safe and less in terms of structure team role and suitability for large organizations ?
+2) discuss the key challenges in implementing agile across geographical distributed team ? what are some best practices to address these challenges ?
+3) explain the components of a successful agile setup in an enterprise environment. how do tools and leadership play a crucial role in ensuring its effectiveness ?
+4) imagine you are a part group project simulating a distributed agile team describe how would you setup the project, distributed rows, maintain communication and track progress using agile practising an tools ? 
